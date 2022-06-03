@@ -1,4 +1,4 @@
-﻿===Dokan Product Validation===
+===Dokan Product Validation===
 Contributors: saju4wordpress
 Author URI:  http://sajuahmed.epizy.com/
 Plugin URI: https://wordpress.org/plugins/dokan-product-validation
