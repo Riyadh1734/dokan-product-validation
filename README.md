@@ -24,6 +24,9 @@ After installation, the plugin automatically connects with the vendor dashboard 
 
 You can make my day by submitting a positive review on <a href="https://wordpress.org/support/plugin/dokan-product-validation/reviews/" target="_blank"><strong>WordPress.org!</strong></a></p>
 
+= Contribute =
+This may have bugs and lack of many features. If you want to contribute on this project, you are more than welcome. Please fork the repository from [Github](https://github.com/Riyadh1734/dokan-product-validation).
+
 == Installation ==
 1. Upload `Dokan-Product-Validation` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
