@@ -5,7 +5,7 @@
  * Plugin URI: https://wordpress.org/plugins/dokan-product-validation
  * Author: Riyadh Ahmed
  * Author URI: http://sajuahmed.epizy.com/
- * Version: 1.6
+ * Version: 1.8
  * License: GPL2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * @package Riyadh_Ahmed

@@ -1,12 +1,12 @@
 ===Dokan Product Validation===
-Contributors: saju4wordpress
+Contributors: saju4wordpress, wecodexwp
 Donate Link: https://www.buymeacoffee.com/riyadh1734
 Author URI:  http://sajuahmed.epizy.com/
 Plugin URI: https://wordpress.org/plugins/dokan-product-validation
 Tags: dokan, validation, product, dokan product, required field.
 Requires at least: 5.2
-Tested up to: 6.5
-Stable tag: 1.6
+Tested up to: 6.7
+Stable tag: 1.8
 License: GPLv2 or later 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,6 +70,15 @@ Yes, this plugin only for dokan lite.
 = 1.6 =
 
 * Compatible with WordPress version
+
+= 1.7 =
+
+* Compatible with WordPress version
+
+= 1.8 =
+
+* Compatible with WordPress Version
+* Compatible with Dokan Version
 
 == Upgrade notice ==
 N/A.
