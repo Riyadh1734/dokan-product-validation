@@ -1,96 +1,204 @@
-===Dokan Product Validation===
-Contributors: saju4wordpress, wecodexwp
-Donate Link: https://www.buymeacoffee.com/riyadh1734
-Author URI:  http://sajuahmed.epizy.com/
-Plugin URI: https://wordpress.org/plugins/dokan-product-validation
-Tags: dokan, validation, product, dokan product, required field.
-Requires at least: 5.2
-Tested up to: 7.1
-Stable tag: 2.1.1
-License: GPLv2 or later 
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# Dokan Product Validation
 
-Dokan Product Validation is a WordPress plugin for generating the required Product information fields.
+[![WordPress](https://img.shields.io/badge/WordPress-5.2%2B-blue.svg)](https://wordpress.org/)
+[![Dokan](https://img.shields.io/badge/Dokan-Compatible-orange.svg)](https://wordpress.org/plugins/dokan/)
+[![License](https://img.shields.io/badge/License-GPLv2%2B-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
 
-== Description ==
-A plugin that allows users/vendors to product validation for adding product cover image, price, and description.
+**Dokan Product Validation** is a WordPress plugin that helps **Dokan vendors** ensure required product information is provided before submitting products.
 
-HOW TO USE IT
-After installation, the plugin automatically connects with the vendor dashboard to generate the required fields for product cover image, price, and descriptions. 
+The plugin validates important product fields such as:
 
+* Product cover image
+* Product price
+* Product description
+* Short description
+* Other required product information
 
-*   [Need Help?](http://sajuahmed.epizy.com/)		
-*   [About Author](http://sajuahmed.epizy.com/)
+## ✨ Features
 
+* ✅ Make important Dokan product fields required
+* ✅ Validate product information before submission
+* ✅ Works with the Dokan vendor dashboard
+* ✅ Lightweight and easy to use
+* ✅ No complicated configuration required
+* ✅ Designed for Dokan Lite
 
-You can make my day by submitting a positive review on <a href="https://wordpress.org/support/plugin/dokan-product-validation/reviews/" target="_blank"><strong>WordPress.org!</strong></a></p>
+## 📋 Requirements
 
-= Contribute =
-This may have bugs and lack of many features. If you want to contribute on this project, you are more than welcome. Please fork the repository from [Github](https://github.com/Riyadh1734/dokan-product-validation).
+* **WordPress:** 5.2 or higher
+* **Dokan:** Dokan Lite
+* **PHP:** Compatible with your WordPress/Dokan installation
 
-== Installation ==
-1. Upload `Dokan-Product-Validation` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+## 🚀 Installation
 
-== Frequently asked questions ==
-= How this plugin works? =
-This plugin will add a required field in each products(Price,image,short-descriptions, etc).
-= What if I found a bug? =
-If you have any issue, please use the support here.
-= Can I use this with my dokan lite plugin? =
-Yes, this plugin only for dokan lite.
+### Method 1: WordPress Dashboard
 
-== Changelog ==
+1. Download the plugin.
+2. Go to **WordPress Dashboard → Plugins → Add New → Upload Plugin**.
+3. Upload the plugin ZIP file.
+4. Click **Install Now**.
+5. Activate **Dokan Product Validation**.
 
-= 1.0 =
+### Method 2: Manual Installation
 
-* Initial version.
+1. Download or clone this repository.
+2. Upload the `Dokan-Product-Validation` folder to:
 
-= 1.1 =
+```text
+/wp-content/plugins/
+```
 
-* WordPress version compatible
+3. Go to **WordPress Dashboard → Plugins**.
+4. Activate **Dokan Product Validation**.
 
-= 1.2 =
+## ⚙️ How It Works
 
-* Compatible with WordPress version
-* Add Donate link for support
+After installation and activation, the plugin automatically integrates with the **Dokan vendor dashboard**.
 
-= 1.3 =
+When a vendor adds or edits a product, the plugin checks required product information such as:
 
-* Compatible with WordPress version
+* Product image
+* Price
+* Description
+* Short description
 
-= 1.4 =
+Vendors must provide the required information before the product can be submitted successfully.
 
-* Compatible with WordPress version
+## ❓ Frequently Asked Questions
 
-= 1.5 =
-* Compatible with WordPress Version
-* Compatible with Dokan Version
+### How does this plugin work?
 
-= 1.6 =
+The plugin adds validation to product fields in the Dokan vendor dashboard. It ensures that required information, such as price, image, and descriptions, is provided before product submission.
 
-* Compatible with WordPress version
+### Can I use this with Dokan Lite?
 
-= 1.7 =
+Yes. **Dokan Product Validation is designed for Dokan Lite.**
 
-* Compatible with WordPress version
+### What should I do if I find a bug?
 
-= 1.8 =
+If you encounter a bug or compatibility issue, please open an issue in this GitHub repository or use the WordPress.org support forum.
 
-* Compatible with WordPress Version
-* Compatible with Dokan Version
+## 🤝 Contributing
 
-= 1.9 =
+Contributions are welcome!
 
-* Compatible with WordPress version
+If you find a bug, have an idea for a new feature, or want to improve the plugin, feel free to contribute.
 
-= 2.0 =
+### Fork the Repository
 
-* Compatible with WordPress version
+You can fork the repository on GitHub:
 
-= 2.1.1 =
+[GitHub Repository](https://github.com/Riyadh1734/dokan-product-validation)
 
-* Compatible with WordPress version
+### Contribution Process
 
-== Upgrade notice ==
-N/A.
+1. Fork the repository.
+2. Create a new branch.
+
+```bash
+git checkout -b feature/my-new-feature
+```
+
+3. Make your changes.
+4. Commit your changes.
+
+```bash
+git commit -m "Add new validation feature"
+```
+
+5. Push your branch.
+
+```bash
+git push origin feature/my-new-feature
+```
+
+6. Open a Pull Request.
+
+## ⭐ Support the Project
+
+If you find **Dokan Product Validation** useful, please consider leaving a positive review on WordPress.org.
+
+[⭐ Leave a Review on WordPress.org](https://wordpress.org/support/plugin/dokan-product-validation/reviews/)
+
+You can also support the project through:
+
+[☕ Buy Me a Coffee](https://www.buymeacoffee.com/riyadh1734)
+
+## 👨‍💻 Author
+
+**Saju Ahmed**
+
+* Author: [Saju Ahmed](http://sajuahmed.epizy.com/)
+* Contributors: **saju4wordpress**, **wecodexwp**
+* GitHub: [Riyadh1734](https://github.com/Riyadh1734)
+
+## 🔗 Links
+
+* **WordPress Plugin:** https://wordpress.org/plugins/dokan-product-validation
+* **GitHub Repository:** https://github.com/Riyadh1734/dokan-product-validation
+* **Author Website:** http://sajuahmed.epizy.com/
+* **Support:** https://wordpress.org/support/plugin/dokan-product-validation/
+* **Reviews:** https://wordpress.org/support/plugin/dokan-product-validation/reviews/
+
+## 📄 License
+
+Dokan Product Validation is free software licensed under the **GNU General Public License v2.0 or later**.
+
+See the [GPLv2 License](https://www.gnu.org/licenses/gpl-2.0.html) for more information.
+
+## 📝 Changelog
+
+### 2.1.1
+
+* Compatible with the latest supported WordPress version.
+
+### 2.0
+
+* Updated WordPress compatibility.
+
+### 1.9
+
+* Updated WordPress compatibility.
+
+### 1.8
+
+* Updated WordPress compatibility.
+* Updated Dokan compatibility.
+
+### 1.7
+
+* Updated WordPress compatibility.
+
+### 1.6
+
+* Updated WordPress compatibility.
+
+### 1.5
+
+* Updated WordPress compatibility.
+* Updated Dokan compatibility.
+
+### 1.4
+
+* Updated WordPress compatibility.
+
+### 1.3
+
+* Updated WordPress compatibility.
+
+### 1.2
+
+* Updated WordPress compatibility.
+* Added donation link for project support.
+
+### 1.1
+
+* Updated WordPress compatibility.
+
+### 1.0
+
+* Initial release.
+
+---
+
+**Dokan Product Validation** — Make sure your Dokan products contain the required information before submission.
