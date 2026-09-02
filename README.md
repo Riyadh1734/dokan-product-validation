@@ -5,8 +5,8 @@ Author URI:  http://sajuahmed.epizy.com/
 Plugin URI: https://wordpress.org/plugins/dokan-product-validation
 Tags: dokan, validation, product, dokan product, required field.
 Requires at least: 5.2
-Tested up to: 6.7
-Stable tag: 1.8
+Tested up to: 7.1
+Stable tag: 2.1.1
 License: GPLv2 or later 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -79,6 +79,18 @@ Yes, this plugin only for dokan lite.
 
 * Compatible with WordPress Version
 * Compatible with Dokan Version
+
+= 1.9 =
+
+* Compatible with WordPress version
+
+= 2.0 =
+
+* Compatible with WordPress version
+
+= 2.1.1 =
+
+* Compatible with WordPress version
 
 == Upgrade notice ==
 N/A.
